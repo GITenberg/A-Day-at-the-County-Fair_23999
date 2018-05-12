@@ -1,0 +1,25 @@
+_repo: A-Day-at-the-County-Fair_23999
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23999-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burnett, Alice Hale
+    gutenberg_agent_id: '7166'
+    url: http://www.gutenberg.org/2009/agents/7166
+description: Three girls spend an idyllic day at a county fair.
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Agricultural exhibitions -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Day at the County Fair
+url: http://www.gutenberg.org/ebooks/23999
